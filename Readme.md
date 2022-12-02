@@ -2,7 +2,7 @@
 
 Tool to get victim's ip.
 
-![](https://i.imgur.com/A9Wi56h.png)
+![](https://i.imgur.com/LFEifqI.png)
 
 ## Linux
 ### Instalation
